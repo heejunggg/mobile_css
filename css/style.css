@@ -1,3 +1,6 @@
+body {
+  background: lightblue;
+}
 .class {
   padding: 10px;
   border: 1px solid slateblue;
