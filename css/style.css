@@ -6,6 +6,7 @@ body {
   border: 1px solid slateblue;
 }
 h1 {
+  font-size: 20px;
   text-align: center;
   color: salmon;
 }
